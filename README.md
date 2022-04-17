@@ -1,6 +1,6 @@
-# amazon_clone
+# Amazon Clone
 
-A new Flutter project.
+Build a functional Amazon Clone with the cross-platform framework, Flutter, with the backend as Firebase- Works on Android and Web
 
 ## Getting Started
 
