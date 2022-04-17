@@ -4,12 +4,17 @@ Build a functional Amazon Clone with the cross-platform framework, Flutter, with
 
 ## Features
 
-- What
-- 
+- Email & Password Authentication
+- Persistent Login
+- View different products
+- Search up for products
+- Add rating and reviews to products
+- Sell products
+- Add products to cart
+- Order products (Sends an order request to seller)
+- Sign Out
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+## Youtube 
+Check out my [youtube channel](https://www.youtube.com/channel/UCFQSFl2gcVe4Nf641ILOtrg) to find the 10hr course on this! 
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+!(Amazon Clone Image)[]
