@@ -17,4 +17,4 @@ Build a functional Amazon Clone with the cross-platform framework, Flutter, with
 ## Youtube 
 Check out my [youtube channel](https://www.youtube.com/channel/UCFQSFl2gcVe4Nf641ILOtrg) to find the 10hr course on this! 
 
-!(Amazon Clone Image)[]
+![Amazon Clone Image](https://github.com/AirAdmirer/amazon-clone/blob/246a03f0ff5d8f8e8c8b851a65b3c9a727f7f078/thumbnail.jpg)
